@@ -1,0 +1,10 @@
+plugins:
+  - jekyll-optional-front-matter
+
+include:
+  - README.md
+
+exclude:
+  - "*file"
+  - "*.pdf"
+  - "*.txt"

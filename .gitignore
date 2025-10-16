@@ -1,0 +1,6 @@
+*.pdf
+*.txt
+Gemfile.lock
+/_site/
+/tmp/
+/vendor/
