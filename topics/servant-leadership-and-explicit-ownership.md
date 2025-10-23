@@ -14,6 +14,8 @@ It hinges on being clear about what you own, showing vulnerability, and taking t
 - Model willingness to take on the boring or uncomfortable tasks.
   Volunteer for the tough conversation, the escalated meeting, or the cleanup work.
 
+- Earn the right to request change by co-owning the first fixes so people feel your actions match your words.
+
 - Pair vulnerability with action.
   Admitting you do not know something, then facilitating the right debate, builds more trust than pretending to have all the answers.
 
@@ -21,8 +23,10 @@ It hinges on being clear about what you own, showing vulnerability, and taking t
 
 1. Publish a short “How I manage” note outlining what reports can expect from you and what you expect from them.
 2. During planning, scan for toil or relational work your role is best suited to absorb and take it.
-3. When you make a call, state the risks you are accepting and how you will measure success so the team sees your ownership.
+3. Before asking for behaviour shifts, pick one quick win to deliver side by side with the affected team.
+4. When you make a call, state the risks you are accepting and how you will measure success so the team sees your ownership.
 
 ## 🎧 Episode Reference
 
 - [Episode 1 – Building Trust and Having Better Fights](https://www.youtube.com/watch?v=JZSePIKgAaw&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc) (~12:45–19:20)
+- [Episode 3 – Psychological Safety vs. Telling the Truth](https://www.youtube.com/watch?v=QH3l1TV_v2o&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&t=655s) (~10:55–15:20).
