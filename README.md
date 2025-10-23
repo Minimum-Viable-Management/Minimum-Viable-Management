@@ -18,6 +18,7 @@ Some summaries may be drafted with AI assistance, but every contribution is revi
 - [🗣️ Minimum Viable One-on-Ones](topics/minimum-viable-one-on-ones.md) – run question-driven conversations that trade status updates for context, feedback, and unblocking support.
 - [🌐 Building Context and Connections](topics/building-context-and-connections.md) – use your organisational awareness to connect people before work gets stuck.
 - [🤝 Servant Leadership and Explicit Ownership](topics/servant-leadership-and-explicit-ownership.md) – model getting into the trenches while making your responsibilities visible.
+- [🗳️ Strategic Influence Without Authority](topics/strategic-influence-without-authority.md) – help individual contributors share unique insight, offer execution support, and reinforce effective leadership.
 - [💬 High-Trust Feedback for Senior ICs](topics/high-trust-feedback-for-senior-ics.md) – keep the bar high with courageous, two-way feedback loops.
 - [🧠 Decision-Making Heuristics](topics/decision-making-heuristics.md) – balance consensus seeking with decisive calls and clear communication.
 - [⚖️ Accountability and Compromise in Leadership](topics/accountability-and-compromise-in-leadership.md) – stay aligned after decisions land and embrace the trade-offs of leading.
@@ -27,6 +28,7 @@ Some summaries may be drafted with AI assistance, but every contribution is revi
 - [📓 Engineers’ Self-Reviews and Growth Plans](topics/self-reviews-and-growth.md) – help engineers write reflective reviews and convert insights into development plans.
 - [🧰 Delegation Playbook](topics/delegation-playbook.md) – decide what to hand off, who should own it, and how to support their success.
 - [👥 Developing Engineers Through Mentorship](topics/developing-engineers-through-mentorship.md) – structure mentorship, coaching, and sponsorship programs that scale across your organisation.
+- [🛡️ Rebuilding Psychological Safety in Frightened Teams](topics/rebuilding-psychological-safety-in-frightened-teams.md) – restore trust in anxious teams through stability, service, and human connection.
 - [🔄 Sustaining Team Productivity](topics/sustaining-team-productivity.md) – encourage sustainable productivity without burnout through continuous improvement habits.
 - [🌱 Long-Term Team Building](topics/long-term-team-building.md) – invest in team durability via rituals, succession planning, and resilience work.
 - [⭐ Staff-Plus Engineering Expectations](topics/staff-plus-engineering-expectations.md) – partner effectively with senior ICs by understanding their charter and impact levers.
@@ -51,6 +53,7 @@ You can watch or listen to the Minimum Viable Management podcast on:
 
 - [Episode 1 – Building Trust and Having Better Fights](https://www.youtube.com/watch?v=JZSePIKgAaw&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 - [Episode 2 – Leadership Is a Series of Decisions (and Compromises)](https://www.youtube.com/watch?v=rRFBChzuUQI&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
+- [Episode 3 – Psychological Safety vs. Telling the Truth](https://www.youtube.com/watch?v=QH3l1TV_v2o&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 
 Have another theme you want discussed?
 [Open an issue](/issues/new) and we can discuss it on the podcast.

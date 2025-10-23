@@ -24,6 +24,7 @@ task test: :build do
     enforce_https:       true,
     ignore_urls:         [
       "/issues/new",
+      "https://podcasts.apple.com/gb/podcast/minimum-viable-management/id1845078315",
     ],
     cache:               {
       timeframe: {
