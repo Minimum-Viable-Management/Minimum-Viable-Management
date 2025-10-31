@@ -28,6 +28,7 @@ Some summaries may be drafted with AI assistance, but every contribution is revi
 - [📓 Engineers’ Self-Reviews and Growth Plans](topics/self-reviews-and-growth.md) – help engineers write reflective reviews and convert insights into development plans.
 - [🧰 Delegation Playbook](topics/delegation-playbook.md) – decide what to hand off, who should own it, and how to support their success.
 - [👥 Developing Engineers Through Mentorship](topics/developing-engineers-through-mentorship.md) – structure mentorship, coaching, and sponsorship programs that scale across your organisation.
+- [🧵 Social Capital for Candid Leadership](topics/social-capital-for-candid-leadership.md) – bank trust before dissent so honest feedback strengthens relationships.
 - [🛡️ Rebuilding Psychological Safety in Frightened Teams](topics/rebuilding-psychological-safety-in-frightened-teams.md) – restore trust in anxious teams through stability, service, and human connection.
 - [🔄 Sustaining Team Productivity](topics/sustaining-team-productivity.md) – encourage sustainable productivity without burnout through continuous improvement habits.
 - [🌱 Long-Term Team Building](topics/long-term-team-building.md) – invest in team durability via rituals, succession planning, and resilience work.
@@ -36,6 +37,7 @@ Some summaries may be drafted with AI assistance, but every contribution is revi
 ### ⚙️ Operating Effectively
 
 - [🌍 Remote Management Habits](topics/remote-management-habits.md) – operate confidently with distributed teams using tested async practices.
+- [⚡ Creating and Keeping Momentum](topics/creating-and-keeping-momentum.md) – align missions, ship visible increments, and prune process so energy compounds.
 - [🛑 Setting Boundaries and Saying No](topics/setting-boundaries-and-saying-no.md) – make deliberate commitments to protect focus and model healthy pace.
 - [📐 Scoping and Estimation Pitfalls](topics/scoping-and-estimation-pitfalls.md) – surface hidden complexities before they derail delivery.
 - [🎯 Hiring and Interviewing for Impact](topics/hiring-and-interviewing-for-impact.md) – refine interview loops and candidate experience to uncover signal.
@@ -54,6 +56,7 @@ You can watch or listen to the Minimum Viable Management podcast on:
 - [Episode 1 – Building Trust and Having Better Fights](https://www.youtube.com/watch?v=JZSePIKgAaw&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 - [Episode 2 – Leadership Is a Series of Decisions (and Compromises)](https://www.youtube.com/watch?v=rRFBChzuUQI&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 - [Episode 3 – Psychological Safety vs. Telling the Truth](https://www.youtube.com/watch?v=QH3l1TV_v2o&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
+- [Episode 4 – Creating and Keeping Momentum](https://www.youtube.com/watch?v=iipw4BeNOOw&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 
 Have another theme you want discussed?
 [Open an issue](/issues/new) and we can discuss it on the podcast.
