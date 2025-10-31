@@ -25,3 +25,7 @@ Managers amplify their teams by spotting the invisible organisational chart and 
 ## 🎧 Episode Reference
 
 - [Episode 1 – Building Trust and Having Better Fights](https://www.youtube.com/watch?v=JZSePIKgAaw&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc) (~08:15–11:45)
+
+## 🔗 Related Resources
+
+- Pair with [Social Capital for Candid Leadership](social-capital-for-candid-leadership.md) to maintain trust while challenging stakeholders.

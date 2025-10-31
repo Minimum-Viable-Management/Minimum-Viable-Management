@@ -8,16 +8,19 @@ Individual contributors maximise their impact by contributing unique context, pr
 - Pair critiques with offers to help ship the fix so feedback lands as collaboration, not commentary.
 - Reinforce positive leadership moves with detailed feedback that explains the team-level benefits.
 - Pressure test disruptive insights with a trusted partner beforehand to confirm timing and fallout.
+- Bank credibility before dissent so your toughest feedback arrives in the context of shared wins.
 
 ## 🛠️ Put It Into Practice
 
 1. Before reviews or meetings, list the facts only you can share alongside how you will support the chosen direction.
 2. DM leaders after impactful updates describing the concrete improvements you observed so they keep repeating the behaviour.
 3. Ask yourself "if I stay quiet, does the outcome get worse?" to decide whether to weigh in.
+4. Note one favour you can deliver before you challenge a decision so your “no” feels like partnership, not opposition.
 
 ## 🎧 Episode Reference
 
 - [Episode 3 – Psychological Safety vs. Telling the Truth](https://www.youtube.com/watch?v=QH3l1TV_v2o&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&t=1980s) (~33:00–38:30).
+- [Episode 4 – Creating and Keeping Momentum](https://www.youtube.com/watch?v=iipw4BeNOOw&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&t=1980s) (~33:00–35:30).
 
 ## 🔗 Related Resources
 

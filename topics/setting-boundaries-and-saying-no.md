@@ -14,11 +14,18 @@ Grounded in Mike McQuaid’s essay [Saying no](https://mikemcquaid.com/saying-no
 
 - Model boundaries publicly — decline meetings, batch communication, and pause work when context shifts—to normalise healthy practices.
 
+- Build social capital ahead of tough refusals by helping partners succeed so future boundaries land with trust.
+
 ## 🛠️ Put It Into Practice
 
 1. Review your commitments weekly and reconsider anything that no longer supports this quarter’s goals.
 2. Adopt a response template: **Acknowledge → Explain priority conflict → Suggest next step**.
 3. Revisit “nos” alongside “yeses” when priorities or capacity change.
+4. Pair every hard no with one proactive yes you can deliver soon to reinforce partnership.
+
+## 🎧 Episode Reference
+
+- [Episode 4 – Creating and Keeping Momentum](https://www.youtube.com/watch?v=iipw4BeNOOw&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&t=1560s) (~26:00–31:30).
 
 ## 🔗 Related Resources
 
