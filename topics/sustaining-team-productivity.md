@@ -24,6 +24,7 @@ Inspired by Neha Batra’s LeadDev article
 2. Track leading indicators (cycle time, deployment frequency, decision latency) and pair them with qualitative stories in demos or project reviews.
 3. Share one productivity habit you are experimenting with each week to normalise continuous improvement.
 4. Review coordination rituals quarterly and remove the ones the team can now handle organically before you introduce anything new.
+5. Keep scope intentionally small: limit concurrent bets, team size, or surface area so you keep learning loops tight as advocated in [The Best Project](https://mikemcquaid.com/the-best-project/).
 
 ## 🎧 Episode Reference
 
@@ -32,3 +33,4 @@ Inspired by Neha Batra’s LeadDev article
 ## 🔗 Related Resources
 
 - Use alongside [Remote Management Habits](remote-management-habits.md) to keep async teams aligned and energised.
+- Pair with Mike McQuaid’s essays [The Best Project](https://mikemcquaid.com/the-best-project/) and [Saying no](https://mikemcquaid.com/saying-no/) for complementary constraint frameworks.
