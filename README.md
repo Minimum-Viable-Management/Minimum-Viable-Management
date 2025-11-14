@@ -22,6 +22,8 @@ Some summaries may be drafted with AI assistance, but every contribution is revi
 - [💬 High-Trust Feedback for Senior ICs](topics/high-trust-feedback-for-senior-ics.md) – keep the bar high with courageous, two-way feedback loops.
 - [🧠 Decision-Making Heuristics](topics/decision-making-heuristics.md) – balance consensus seeking with decisive calls and clear communication.
 - [⚖️ Accountability and Compromise in Leadership](topics/accountability-and-compromise-in-leadership.md) – stay aligned after decisions land and embrace the trade-offs of leading.
+- [🙋 Owning Mistakes Before Trust Erodes](topics/owning-mistakes-before-trust-erodes.md) – recognise the warning signs, invite hard feedback, and model blameless diagnosis when you misstep.
+- [📋 Rebuilding Trust with Visible Plans](topics/rebuilding-trust-with-visible-plans.md) – make the recovery strategy readable, credit collaborators, and keep iterating in the open.
 
 ### 🌿 Growing People and Teams
 
@@ -57,6 +59,7 @@ You can watch or listen to the Minimum Viable Management podcast on:
 - [Episode 2 – Leadership Is a Series of Decisions (and Compromises)](https://www.youtube.com/watch?v=rRFBChzuUQI&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 - [Episode 3 – Psychological Safety vs. Telling the Truth](https://www.youtube.com/watch?v=QH3l1TV_v2o&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 - [Episode 4 – Creating and Keeping Momentum](https://www.youtube.com/watch?v=iipw4BeNOOw&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
+- [Episode 5 – When Things Go Wrong: How Leaders Rebuild Trust](https://www.youtube.com/watch?v=HOSQcoPAAKE&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 
 Have another theme you want discussed?
 [Open an issue](/issues/new) and we can discuss it on the podcast.
