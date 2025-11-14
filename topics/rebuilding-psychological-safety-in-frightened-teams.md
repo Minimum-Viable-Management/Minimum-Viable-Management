@@ -23,3 +23,4 @@ Stabilise anxious teams by pairing transparent communication with consistent fol
 
 - See [🌱 Long-Term Team Building](long-term-team-building.md) for rituals that reinforce team durability.
 - Pair with [🔄 Sustaining Team Productivity](sustaining-team-productivity.md) to keep improvements stable once trust returns.
+- Reference [🙋 Owning Mistakes Before Trust Erodes](owning-mistakes-before-trust-erodes.md) to model the apologies and diagnostics that restart psychological safety.
