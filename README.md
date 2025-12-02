@@ -62,4 +62,4 @@ You can watch or listen to the Minimum Viable Management podcast on:
 - [Episode 5 – When Things Go Wrong: How Leaders Rebuild Trust](https://www.youtube.com/watch?v=HOSQcoPAAKE&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 
 Have another theme you want discussed?
-[Open an issue](/issues/new) and we can discuss it on the podcast.
+[Open an issue](https://github.com/Minimum-Viable-Management/Minimum-Viable-Management/issues/new) and we can discuss it on the podcast.
