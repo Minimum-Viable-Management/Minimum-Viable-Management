@@ -21,6 +21,10 @@ Summarized from Mike McQuaid’s article
 2. Consider a risks with probability, impact, owner, and mitigation for each meaningful one.
 3. Compare planned vs. actual effort at project close-out and share lessons for iterative improvement.
 
+## 🎧 Episode Reference
+
+- [Episode 6 – Beyond Engineering: Healthy Tension](https://www.youtube.com/watch?v=QYyjrqSIe8w&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=6).
+
 ## 🔗 Related Resources
 
 - Combine with [Decision-Making Heuristics](decision-making-heuristics.md) to decide when to revisit scope or pivot investments.
