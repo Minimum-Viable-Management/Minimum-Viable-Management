@@ -23,4 +23,4 @@ Healthy cross-functional work keeps user needs, business outcomes, and technical
 
 ## 🔗 Related Resources
 
-- The [KRAZAM microservices explainer](https://www.youtube.com/watch?v=y8OnoxKotPQ) is a amusing take on cross-functional tension.
+- The [KRAZAM microservices explainer](https://www.youtube.com/watch?v=y8OnoxKotPQ) is an amusing take on cross-functional tension.
