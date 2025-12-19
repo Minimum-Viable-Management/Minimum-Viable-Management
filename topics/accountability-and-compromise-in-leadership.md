@@ -28,4 +28,5 @@ Leadership means owning the fallout of imperfect decisions and embracing the com
 
 ## 🎧 Episode Reference
 
-- [Episode 2 – Leadership Is a Series of Decisions (and Compromises)](https://www.youtube.com/watch?v=rRFBChzuUQI&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc) (~12:30–26:15)
+- [Episode 2 – Leadership Is a Series of Decisions (and Compromises)](https://www.youtube.com/watch?v=rRFBChzuUQI&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc) (~12:30–26:15).
+- [Episode 6 – Beyond Engineering: Healthy Tension](https://www.youtube.com/watch?v=QYyjrqSIe8w&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=6).

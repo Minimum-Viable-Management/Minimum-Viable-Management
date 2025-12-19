@@ -43,6 +43,8 @@ Some summaries may be drafted with AI assistance, but every contribution is revi
 - [🛑 Setting Boundaries and Saying No](topics/setting-boundaries-and-saying-no.md) – make deliberate commitments to protect focus and model healthy pace.
 - [📐 Scoping and Estimation Pitfalls](topics/scoping-and-estimation-pitfalls.md) – surface hidden complexities before they derail delivery.
 - [🎯 Hiring and Interviewing for Impact](topics/hiring-and-interviewing-for-impact.md) – refine interview loops and candidate experience to uncover signal.
+- [⚖️ Balancing User, Business, and Technology](topics/balancing-user-business-technology.md) – keep cross-functional decisions grounded in the three core personas.
+- [🤝 Negotiating Cross-Functional Trade-Offs](topics/negotiating-cross-functional-trade-offs.md) – replace flat refusals with explicit assumptions and option-heavy trade-offs.
 
 ## 🎧 Listen & Subscribe
 
@@ -60,6 +62,7 @@ You can watch or listen to the Minimum Viable Management podcast on:
 - [Episode 3 – Psychological Safety vs. Telling the Truth](https://www.youtube.com/watch?v=QH3l1TV_v2o&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 - [Episode 4 – Creating and Keeping Momentum](https://www.youtube.com/watch?v=iipw4BeNOOw&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 - [Episode 5 – When Things Go Wrong: How Leaders Rebuild Trust](https://www.youtube.com/watch?v=HOSQcoPAAKE&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
+- [Episode 6 – Beyond Engineering: Healthy Tension](https://www.youtube.com/watch?v=QYyjrqSIe8w&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=6)
 
 Have another theme you want discussed?
 [Open an issue](https://github.com/Minimum-Viable-Management/Minimum-Viable-Management/issues/new) and we can discuss it on the podcast.
