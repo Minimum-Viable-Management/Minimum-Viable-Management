@@ -19,6 +19,7 @@ Some summaries may be drafted with AI assistance, but every contribution is revi
 - [🌐 Building Context and Connections](topics/building-context-and-connections.md) – use your organisational awareness to connect people before work gets stuck.
 - [🤝 Servant Leadership and Explicit Ownership](topics/servant-leadership-and-explicit-ownership.md) – model getting into the trenches while making your responsibilities visible.
 - [🗳️ Strategic Influence Without Authority](topics/strategic-influence-without-authority.md) – help individual contributors share unique insight, offer execution support, and reinforce effective leadership.
+- [🪙 Political Capital and Table Flips](topics/political-capital-and-table-flips.md) – recognise political capital as a currency, map where it sits, and spend it tactically for the team.
 - [💬 High-Trust Feedback for Senior ICs](topics/high-trust-feedback-for-senior-ics.md) – keep the bar high with courageous, two-way feedback loops.
 - [🧠 Decision-Making Heuristics](topics/decision-making-heuristics.md) – balance consensus seeking with decisive calls and clear communication.
 - [⚖️ Accountability and Compromise in Leadership](topics/accountability-and-compromise-in-leadership.md) – stay aligned after decisions land and embrace the trade-offs of leading.
@@ -31,6 +32,7 @@ Some summaries may be drafted with AI assistance, but every contribution is revi
 - [🧰 Delegation Playbook](topics/delegation-playbook.md) – decide what to hand off, who should own it, and how to support their success.
 - [👥 Developing Engineers Through Mentorship](topics/developing-engineers-through-mentorship.md) – structure mentorship, coaching, and sponsorship programs that scale across your organisation.
 - [🧵 Social Capital for Candid Leadership](topics/social-capital-for-candid-leadership.md) – bank trust before dissent so honest feedback strengthens relationships.
+- [🎭 Intentional Authenticity at Work](topics/intentional-authenticity-at-work.md) – choose how much of yourself to bring so work stays sustainable and aligned with what you want to gain.
 - [🛡️ Rebuilding Psychological Safety in Frightened Teams](topics/rebuilding-psychological-safety-in-frightened-teams.md) – restore trust in anxious teams through stability, service, and human connection.
 - [🔄 Sustaining Team Productivity](topics/sustaining-team-productivity.md) – encourage sustainable productivity without burnout through continuous improvement habits.
 - [🌱 Long-Term Team Building](topics/long-term-team-building.md) – invest in team durability via rituals, succession planning, and resilience work.
@@ -63,6 +65,7 @@ You can watch or listen to the Minimum Viable Management podcast on:
 - [Episode 4 – Creating and Keeping Momentum](https://www.youtube.com/watch?v=iipw4BeNOOw&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 - [Episode 5 – When Things Go Wrong: How Leaders Rebuild Trust](https://www.youtube.com/watch?v=HOSQcoPAAKE&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 - [Episode 6 – Beyond Engineering: Healthy Tension](https://www.youtube.com/watch?v=QYyjrqSIe8w&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=6)
+- [Episode 7 – Politics at Work Without Losing Your Soul](https://www.youtube.com/watch?v=FShnl0Kby_U&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=7)
 
 Have another theme you want discussed?
 [Open an issue](https://github.com/Minimum-Viable-Management/Minimum-Viable-Management/issues/new) and we can discuss it on the podcast.

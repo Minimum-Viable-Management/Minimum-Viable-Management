@@ -5,6 +5,7 @@ Drawn from Minimum Viable Management Episode 4 on balancing authenticity with wo
 ## 🔑 Key Points
 
 - Earn candour by solving a partner’s problem before you deliver dissent so your “no” arrives on a foundation of shared wins.
+- Spend social capital on behalf of others when your position makes the ask safer and more effective.
 - Take time to understand how you truly feel and why before speaking so authenticity lands as clarity instead of venting.
 - Praise responsible challenges in public channels to normalise curiosity and reinforce that honesty should move discussions forward.
 - Distinguish supportive openness from oversharing; remote interactions still need respectful boundaries and constructive intent.
@@ -18,6 +19,7 @@ Drawn from Minimum Viable Management Episode 4 on balancing authenticity with wo
 ## 🎧 Episode Reference
 
 - [Episode 4 – Creating and Keeping Momentum](https://www.youtube.com/watch?v=iipw4BeNOOw&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&t=1980s) (~33:00–39:00).
+- [Episode 7 – Politics at Work Without Losing Your Soul](https://www.youtube.com/watch?v=FShnl0Kby_U&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=7&t=1200s) (~20:00–23:30).
 
 ## 🔗 Related Resources
 

@@ -9,6 +9,7 @@ Individual contributors maximise their impact by contributing unique context, pr
 - Reinforce positive leadership moves with detailed feedback that explains the team-level benefits.
 - Pressure test disruptive insights with a trusted partner beforehand to confirm timing and fallout.
 - Bank credibility before dissent so your toughest feedback arrives in the context of shared wins.
+- Choose the messenger deliberately when privilege or role will make the same question land with less friction.
 
 ## 🛠️ Put It Into Practice
 
@@ -21,6 +22,7 @@ Individual contributors maximise their impact by contributing unique context, pr
 
 - [Episode 3 – Psychological Safety vs. Telling the Truth](https://www.youtube.com/watch?v=QH3l1TV_v2o&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&t=1980s) (~33:00–38:30).
 - [Episode 4 – Creating and Keeping Momentum](https://www.youtube.com/watch?v=iipw4BeNOOw&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&t=1980s) (~33:00–35:30).
+- [Episode 7 – Politics at Work Without Losing Your Soul](https://www.youtube.com/watch?v=FShnl0Kby_U&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=7&t=1000s) (~16:40–19:30).
 
 ## 🔗 Related Resources
 
