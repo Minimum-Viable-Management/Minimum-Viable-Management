@@ -15,6 +15,9 @@ They work best when they are deliberate conversations, not weekly status recital
 - Use synchronous time for the hard stuff.
   Deliver challenging feedback, work through ambiguity, and surface blockers face to face (or at least cameras on) to preserve empathy and clarity.
 
+- Prevent performance review surprises by sharing emerging feedback in one-on-ones rather than waiting for formal cycles.
+  The review meeting should feel like a recap, not a reveal.
+
 - Make it a two-way feedback loop.
   Managers should explicitly invite critique on their own performance and processes to keep trust high.
 
@@ -23,6 +26,7 @@ They work best when they are deliberate conversations, not weekly status recital
 1. Share a lightweight agenda document where both people can park questions through the week.
 2. Start with context exchange: what has changed, what’s coming, and how company-level shifts might affect work.
 3. Leave time at the end for mutual feedback: “What could I do differently next week?” or “What do you need to keep momentum?”
+4. Schedule short debriefs after project milestones to capture feedback while it is fresh.
 
 ## 🎧 Episode Reference
 

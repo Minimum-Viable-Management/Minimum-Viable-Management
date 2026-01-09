@@ -29,6 +29,7 @@ Some summaries may be drafted with AI assistance, but every contribution is revi
 ### 🌿 Growing People and Teams
 
 - [📓 Engineers’ Self-Reviews and Growth Plans](topics/self-reviews-and-growth.md) – help engineers write reflective reviews and convert insights into development plans.
+- [🧾 Performance Reviews](topics/performance-reviews.md) – run reviews as no-surprises summaries that balance documented feedback with future growth focus.
 - [🧰 Delegation Playbook](topics/delegation-playbook.md) – decide what to hand off, who should own it, and how to support their success.
 - [👥 Developing Engineers Through Mentorship](topics/developing-engineers-through-mentorship.md) – structure mentorship, coaching, and sponsorship programs that scale across your organisation.
 - [🧵 Social Capital for Candid Leadership](topics/social-capital-for-candid-leadership.md) – bank trust before dissent so honest feedback strengthens relationships.
@@ -66,6 +67,7 @@ You can watch or listen to the Minimum Viable Management podcast on:
 - [Episode 5 – When Things Go Wrong: How Leaders Rebuild Trust](https://www.youtube.com/watch?v=HOSQcoPAAKE&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc)
 - [Episode 6 – Beyond Engineering: Healthy Tension](https://www.youtube.com/watch?v=QYyjrqSIe8w&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=6)
 - [Episode 7 – Politics at Work Without Losing Your Soul](https://www.youtube.com/watch?v=FShnl0Kby_U&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=7)
+- [Episode 8 – Performance Reviews, Done Right](https://www.youtube.com/watch?v=8RvA3jZbdtY&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=8)
 
 Have another theme you want discussed?
 [Open an issue](https://github.com/Minimum-Viable-Management/Minimum-Viable-Management/issues/new) and we can discuss it on the podcast.
