@@ -46,5 +46,6 @@
 ## General Notes
 
 - When adding new topics, mirror the established pattern: create the `topics/` file with matching emoji/title, update the relevant themed list in `README.md`, and keep descriptions to a single sentence.
+- Do not title topics with names that exactly match episode titles.
 - Summaries should focus on actionable guidance drawn from transcripts, LeadDev articles, or Mike’s posts.
 - Respect the existing emoji taxonomy; introduce new emojis only if the theme clearly differs and stays consistent between README and topic page.

@@ -43,6 +43,9 @@ Some summaries may be drafted with AI assistance, but every contribution is revi
 
 - [🌍 Remote Management Habits](topics/remote-management-habits.md) – operate confidently with distributed teams using tested async practices.
 - [⚡ Creating and Keeping Momentum](topics/creating-and-keeping-momentum.md) – align missions, ship visible increments, and prune process so energy compounds.
+- [🏛️ Working With Institutional Inertia](topics/working-with-institutional-inertia.md) – understand the organisation as an entity, trace its guardrails, and set expectations for change.
+- [🎚️ Pacing Change in Mature Organisations](topics/pacing-change-in-mature-organisations.md) – pick the battles that matter, protect stability, and run safe experiments as you shift norms.
+- [🧭 Navigating Unwritten Norms](topics/navigating-unwritten-norms.md) – surface missing norms, translate trade-offs for newcomers, and run safe experiments so teams can deliver without breaking trust.
 - [🛑 Setting Boundaries and Saying No](topics/setting-boundaries-and-saying-no.md) – make deliberate commitments to protect focus and model healthy pace.
 - [📐 Scoping and Estimation Pitfalls](topics/scoping-and-estimation-pitfalls.md) – surface hidden complexities before they derail delivery.
 - [🎯 Hiring and Interviewing for Impact](topics/hiring-and-interviewing-for-impact.md) – refine interview loops and candidate experience to uncover signal.
@@ -68,6 +71,7 @@ You can watch or listen to the Minimum Viable Management podcast on:
 - [Episode 6 – Beyond Engineering: Healthy Tension](https://www.youtube.com/watch?v=QYyjrqSIe8w&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=6)
 - [Episode 7 – Politics at Work Without Losing Your Soul](https://www.youtube.com/watch?v=FShnl0Kby_U&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=7)
 - [Episode 8 – Performance Reviews, Done Right](https://www.youtube.com/watch?v=8RvA3jZbdtY&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=8)
+- [Episode 9 – Getting Shit Done in Institutions](https://www.youtube.com/watch?v=Q4NPVkQv1jE&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=9)
 
 Have another theme you want discussed?
 [Open an issue](https://github.com/Minimum-Viable-Management/Minimum-Viable-Management/issues/new) and we can discuss it on the podcast.
