@@ -12,12 +12,18 @@ Drawn from Neha Batra’s LeadDev article
 - Track load-bearing teammates and distribute context so no single person becomes a long-term bottleneck.
 - Balance stability with renewal.
   Preserve the core mission while cycling in new challenges, skills, and perspectives.
+- Treat every new hire as a new team.
+  Reset expectations, revisit norms, and give people time to renegotiate how they work together.
 
 ## 🛠️ Put It Into Practice
 
 1. Maintain a living team charter covering mission, tenets, operating principles, and interfaces.
 2. Rotate ownership of key ceremonies (planning, demos, postmortems) to broaden influence and avoid single points of failure.
 3. Pair annual planning with “stay interviews” to understand what keeps high performers motivated.
+
+## 🎧 Episode Reference
+
+- [Episode 9 – Getting Shit Done in Institutions](https://www.youtube.com/watch?v=Q4NPVkQv1jE&list=PLdx6vnBOYrMZw3ZHjJJyItqQuZQhTIzhc&index=9) (~32:30–35:30).
 
 ## 🔗 Related Resources
 
